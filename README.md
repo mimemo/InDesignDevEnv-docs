@@ -1,13 +1,21 @@
-## InDesignDevEnv
+* ## InDesignDevEnv
 InDesign Plug-ins Dev note.
 
 - [日本語](#アプリ)
-- [英語](#App)
+- [English](#App)
 
 
 # PrivacyPolicy (プライバシーポリシー)
 
 - [PrivacyPolicy Page](./privacypolicy.md)
+
+
+# macOS version (beta version)
+
+- [macOS Version](./mac/readme.md)
+
+- ベータ版です。UIが適切に表示されません
+- Beta version. UI does not display properly.
 
 
 # アプリ
