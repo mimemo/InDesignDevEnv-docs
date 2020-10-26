@@ -47,6 +47,9 @@ MacOSとOSでサポートされるXcodeバージョン
 
 # 履歴
 
+## v1.8,  (2020/10/26)
+- CC2021情報を追加
+
 ## v1.7,  (2020/09/10) for Android only.
 - タブが見えにくかったのを修正
 
@@ -96,6 +99,9 @@ macOS version, and Xcode version supported by macOS
 ![03](./images/03.png)
 
 # history
+
+## v1.8,  (2020/10/26)
+- Added cc2021 info.
 
 ## v1.7,  (2020/09/10) for Android only.
 - Fixed the tabs that were hard to see.
