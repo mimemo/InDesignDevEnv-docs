@@ -12,9 +12,12 @@ This software is a beta version. Please use it at your own risk.
 
 # known issues (Ver1.4 and later)
 
-The tab header is hidden. (Displayed when resizing)
+The tab header is hidden. 
 
-タブのヘッダーが非表示になる。（リサイズすると表示される）
+(Try changing the display size of the app, as this will solve the problem.)
+
+
+タブのヘッダーが非表示になる。（リサイズすると表示されるので、起動後に少しだけサイズ変更してみてください）
 
 (Cannot solve…)
 
