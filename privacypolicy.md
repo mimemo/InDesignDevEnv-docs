@@ -5,7 +5,7 @@ Adobe InDesign-Plugin development environment list.
 
 ## Support
 
-Twitter:@Kwaishi2 
+Twitter:@Kawaishi2 
 
 ---
 ## Privacy policy
