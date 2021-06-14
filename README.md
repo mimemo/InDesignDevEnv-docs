@@ -47,7 +47,10 @@ MacOSとOSでサポートされるXcodeバージョン
 
 # 履歴
 
-## v1.8,  (2020/10/26)
+## v1.9,  (2021/06/14)
+- macOS 11 情報追加、他
+
+- ## v1.8,  (2020/10/26)
 - CC2021情報を追加
 
 ## v1.7,  (2020/09/10) for Android only.
@@ -100,7 +103,9 @@ macOS version, and Xcode version supported by macOS
 
 # history
 
-## v1.8,  (2020/10/26)
+## v1.9,  (2021/06/14)
+- Added macOS11 info.
+- ## v1.8,  (2020/10/26)
 - Added cc2021 info.
 
 ## v1.7,  (2020/09/10) for Android only.
