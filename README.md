@@ -14,10 +14,6 @@ InDesign Plug-ins Dev note.
 
 - [Microsoft Store](https://www.microsoft.com/ja-jp/p/indesigndevenv/9n30mhl1htf9)
 
-# for Android (google play)
-
-- [google play](https://play.google.com/store/apps/details?id=io.github.mimemo.InDesignDevEnv)
-
 
 # for macOS (beta version)
 
@@ -46,6 +42,9 @@ MacOSとOSでサポートされるXcodeバージョン
 ![03](./images/03.png)
 
 # 履歴
+
+## v3.0,  (2023/10/13)
+- CC2023,2024情報を追加
 
 ## v2.0,  (2021/11/05)
 - CC2022情報を追加
@@ -106,6 +105,8 @@ macOS version, and Xcode version supported by macOS
 
 # history
 
+## v3.0,  (2023/10/13)
+- Added cc2023,2024 info.
 
 ## v2.0,  (2021/11/05)
 - Added cc2022 info.
